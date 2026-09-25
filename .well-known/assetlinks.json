@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ngc.app",
+    "sha256_cert_fingerprints": [
+      "fb:3b:d5:76:f0:18:d4:94:50:c8:c0:44:9e:52:e4:56:bf:09:eb:a4:55:f6:50:24:f2:20:ce:7f:a8:c9:0d:37"
+    ]
+  }
+}]
